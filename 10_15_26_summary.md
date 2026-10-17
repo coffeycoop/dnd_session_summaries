@@ -1,0 +1,105 @@
+# Session Summary — 2026-10-15
+
+## Concise Recap
+
+The party resumed the interrupted ritual in the **Amber Temple** with Vampyr manifested outside the salt circle and a shadow forming inside a cubic block of amber. Nazareth accepted the remaining vial from Kasimir and gained the **Savage Attacker** feat. During the fight, Nazareth attacked Vampyr, was clawed, bitten, grappled, and poisoned, while Vampyr repeatedly used enormous batlike wings and other supernatural attacks against the group. Reggae Joe maintained a healing guardian spirit, Frangela entered the circle and used healing and clerical abilities, and Aniela tried several spells while still affected by her urge to flee.
+
+Vampyr became increasingly translucent as the ritual progressed. He used a black fireball-like attack referred to as “deathball,” became invisible, and continued attacking the party, but Diesel retained contact with the ritual materials. The amber absorbed the evil hair and gradually shaped it into Vampyr’s likeness; the cube expanded into a full-sized sarcophagus. The ritual then completed: Vampyr disappeared into the sealed amber prison, the supernatural heat and immediate fear effects ended, and the party survived. They took a short rest and used healing magic and potions to recover from the encounter.
+
+Afterward, the party collapsed the access doorway to the ritual room as a precaution, then explored additional Amber Temple chambers. They found more decayed living quarters, several intact sarcophagi, and a crushed construct resembling a damaged **windmill guardian**, but did not open or touch the remaining prisons. Reggae Joe touched another sarcophagus and accepted a bargain from a wolf-like Dark Power heard as **Key Rod**, the “Star of Secrets,” gaining limited use of *Scrying* and a stronger connection to nature. The session ended with the party planning a route out of the temple to retrieve their boat, pursue the **Sunsword** repair lead, and possibly visit **Yester Hill**, the **Wizard of Wines**, and the Mad Mage’s region.
+
+## Events
+
+- The session opened with a recap of Kasimir’s earlier bargain with a birdlike Dark Power. Kasimir had been promised the restoration of his sister, **Patrina Velikovna**, and had been directed toward the crypts of Castle Ravenloft. The party’s current immediate problem remained the interrupted attempt to imprison Vampyr.
+- Nazareth chose to drink his remaining vial. The gift granted him the **Savage Attacker** feat, allowing him to reroll weapon damage once per turn and use either result.
+- The party confirmed that Frangela’s attuned **Icon of Ravenloft** was relevant to the encounter because its *Protection from Evil and Good* effect imposed disadvantage on Vampyr’s attacks and blocked some aberration-related effects. Vampyr’s madness-inducing emotional impact was treated separately from a magical frightened condition.
+- Nazareth resisted the madness effect and recognized that the others’ terror might be overcome through encouragement. He moved to Frangela, lifted her from her fetal position, encouraged her to steel herself, and attacked Vampyr several times with his weapons.
+- Vampyr responded by growing large, leathery bat wings with talons at their ends. The wing attacks repeatedly swept the area around him, damaging or knocking down Diesel, Nazareth, and Frangela. Frangela was roused from her initial stupor by Nazareth’s intervention and the developing situation.
+- Frangela remained poisoned from Vampyr’s earlier bite. The poison prevented her from regaining hit points normally and caused additional necrotic damage at the start of her turns, with Constitution saves available at the ends of those turns.
+- Aniela attempted to use *Geas* to compel Vampyr, but the spell immediately fizzled, suggesting that he was immune to charm effects. Her continuing *Flaming Sphere* forced a Dexterity save and inflicted limited fire damage. She also fired an *Ice Knife* at Vampyr after he became invisible; the attack missed and shattered against the nearby wall.
+- Aniela entered the salt circle to help Diesel and endured the circle’s intense heat. The transcript records her taking fire damage while doing so. Later, Vampyr’s “deathball” attack dropped her into death saves; the fear effect no longer controlled her once she was down.
+- Reggae Joe continued moving his guardian spirit around the room and used it repeatedly for healing, including healing Diesel while Diesel was holding the ritual materials. The guardian spirit was described as a turtle-like healing manifestation.
+- Frangela administered a potion to Diesel. The potion was labeled as a superior healing potion, but the label peeled away to reveal that it was actually a standard healing potion, restoring only a modest amount. She then used **Invoke Duplicity**, creating an illusory duplicate near Nazareth and gaining the tactical benefits of the clerical feature.
+- Vampyr clawed and bit Nazareth. The bite restored some of Vampyr’s wounds and inflicted a poison that prevented Nazareth from regaining hit points and dealt continuing necrotic damage. Nazareth initially failed to escape the grapple, then attacked Vampyr with *Zephyr Strike* and his weapons instead.
+- Vampyr became partly translucent as the ritual progressed. He later cast or manifested a black, fireball-like area attack called “deathball,” requiring Dexterity saves from the party. The attack badly injured the group and contributed to Aniela’s collapse. Vampyr then spoke arcane words and became invisible.
+- Nazareth used his perception of the flames and the displaced air to locate Vampyr’s invisible position. He chose to heal and reposition rather than simply continue attacking, used *Zephyr Strike* to disengage, and administered a regular healing potion to Aniela, bringing her back up with eight hit points.
+- The party continued healing Diesel while keeping him connected to the ritual. The transcript records multiple uses of the guardian spirit and an additional potion; exact recipients and hit-point totals are not always clear because of overlapping table discussion.
+- The ritual materials completed their transformation. The evil hair was pulled entirely into the amber, taking on Vampyr’s humanoid likeness. The amber cube expanded into a full-sized sarcophagus, and a shriek like a thousand bats came from Vampyr’s position. Vampyr’s visible form then faded away and the room became quiet.
+- Diesel’s contact with the completed sarcophagus remained safe after the ritual ended. The oppressive heat and immediate supernatural pressure disappeared, and the group concluded that Vampyr had been contained.
+- The party used healing magic and took a short rest, with the transcript recording approximately fourteen points of group healing during the recovery. The precise hit-point accounting is conversational and not fully reliable, but the party was no longer in the immediate combat.
+- The party debated destroying or burying the ritual chamber. They ultimately used a combination of high-level spells and the **ring of telekinesis** to collapse a roughly 10-by-10-foot section at the doorway, making access more difficult without collapsing the party’s own position.
+- The party explored another section of the Amber Temple. A newly revealed hallway had a collapsed northern half, three doors on one side, and another door at the south end.
+- Two rooms contained decayed former living quarters. Another room held three standing sarcophagi and a crushed, armor-like construct taller than a human. The narration identified it as a damaged **windmill guardian**; its control amulet was missing, and the party did not restore or activate it.
+- The party entered another vault with differently colored precious-stone floors and three intact sarcophagi. A further vault had a granite floor, three standing sarcophagi, and wizard statues. Nothing inside these prisons was identified.
+- Reggae Joe attempted to touch another sarcophagus but found himself physically unable to do so after accepting his new Dark Power bargain. He could still touch ordinary objects and party members, but not the amber prisons. The party did not force the issue.
+- The party discussed camping in the temple, first considering the freezing atrium and then a warmer chamber. No definite long-rest location or completed long rest was established in the transcript.
+- The group reviewed several possible next destinations. They identified the Mad Mage as **Mordenkainen**, distinct from the mad lich **Exethanter**, and recalled that the Mad Mage was associated with the mountains and a lake. They also discussed a lead involving a magical staff, a stone, and confronting a darkest fear, as well as traveling toward Yester Hill and the Wizard of Wines.
+- The session closed with a tentative plan to retrieve the party’s boat from the lake, continue pursuing a way to repair the Sunsword, and possibly deliver or collect wine at the Wizard of Wines along the route.
+
+## Entities
+
+- **Vampyr:** The powerful, campaign-specific Dark Power or vampiric entity the party was attempting to imprison. He manifested as a towering, supernatural opponent, used wing attacks, claws, a draining bite, a black “deathball,” and invisibility, and was ultimately drawn into a newly formed amber sarcophagus. The Curse of Strahd adventure text confirms the Amber Temple as a place associated with Dark Powers, but does not establish this campaign’s Vampyr details.
+- **Key Rod / “the Star of Secrets”:** A wolf-like, approximately ten-foot-tall entity encountered by Reggae Joe through another amber sarcophagus. The name is heard in the transcript as “Key Rod” or “Keyrod”; the exact spelling is unresolved. It offered knowledge and the ability to see into others in exchange for championhood.
+- **Kasimir Velikov:** Dusk elf whose bargain with another Dark Power remains central to the party’s plans. He was promised a way to restore Patrina and was directed toward Castle Ravenloft. He did not appear in the newly played combat.
+- **Patrina Velikovna:** Kasimir’s deceased sister, whose possible restoration remains unverified. The party continued discussing Kasimir’s plan to find her in the Castle Ravenloft crypts.
+- **Exethanter:** The Amber Temple’s mad lich. The party explicitly distinguished him from the Mad Mage; no direct interaction with him was captured during this session.
+- **Mordenkainen / the Mad Mage:** The powerful wizard associated with the mountains and lake region. The party recalled him as a possible source of help or a route-related lead, but did not meet him.
+- **Strahd von Zarovich:** The vampire ruler of Barovia, discussed indirectly as the reason the party needs the Sunsword. He did not appear.
+- **Windmill guardian:** A damaged construct found in an Amber Temple room. Its head had been crushed by a ceiling collapse, and its control amulet was absent. The transcript does not establish whether it is connected to Old Bonegrinder or is simply a similarly named temple construct.
+
+## Locations
+
+- **Amber Temple:** The main setting. The party completed the Vampyr imprisonment, collapsed one access point, and continued exploring its lower chambers and vaults.
+- **Vampyr’s ritual chamber:** The chamber containing the salt circle, cubic amber, and the completed sarcophagus. The party collapsed the doorway after the ritual to hinder future access.
+- **Additional Amber Temple vaults:** Newly explored rooms held decayed living quarters, a crushed windmill guardian, and multiple intact amber sarcophagi with unknown occupants. Floors included various precious stones and granite.
+- **Castle Ravenloft:** The destination Kasimir was expected to reach in search of Patrina’s remains. The party did not travel there during this session.
+- **Mount Ghakis:** The mountain containing the Amber Temple in the Curse of Strahd reference material. The party discussed leaving the mountain area after recovering from the ritual.
+- **Lake Zarovich / the lake region:** The party recalled having a boat near a lake and discussed retrieving it. The exact lake name was inconsistently spoken in the transcript; the canonical context supports **Lake Zarovich** as the likely reference, but the travel plan was not executed on-record.
+- **Yester Hill:** Discussed as a possible next destination connected to the party’s remembered magical-staff and stone-ring lead. No visit occurred during this session.
+- **Wizard of Wines:** Discussed as a possible stop for wine and as a route-related location. The party did not reach it during this session.
+- **Mad Mage’s region near Mount Baratok:** The party recalled that Mordenkainen was associated with the mountains and lake north of Vallaki. This was planning and recollection, not a completed visit.
+
+## Revelations
+
+- The Vampyr imprisonment ritual worked according to the party’s immediate observations: the amber transformed into a sarcophagus containing Vampyr’s formed likeness, Vampyr’s manifestation vanished, and the ritual chamber’s heat and pressure ended.
+- The ritual required continued physical contact with the evil hair and amber while the entity manifested outside the salt circle. The party’s survival depended on maintaining that contact through several rounds of attacks.
+- Vampyr is not behaving like an ordinary vampire. He resisted or ignored charm-based magic, used supernatural wing and area attacks, became invisible, and appeared to weaken or become less substantial as the imprisonment progressed.
+- Reggae Joe’s new Dark Power bargain granted him three free uses of *Scrying* as an action. It also left him feeling more feral and connected to nature, with an apparent pull toward open sky and the full moon.
+- Reggae Joe could no longer voluntarily touch the remaining amber sarcophagi after accepting Key Rod’s bargain. The reason and full cost of this restriction were not explained.
+- The party now has evidence that the Amber Temple contains additional intact prisons and that touching them can offer substantial powers at potentially serious cost.
+- The Mad Mage is **Mordenkainen**, while Exethanter is a separate wizard who became a lich and went mad. The party had previously conflated the two.
+- The party’s current practical objective is not merely surviving the Amber Temple: they want to repair or activate the **Sunsword** before confronting Strahd.
+
+## Quests and Leads
+
+- **Verify Vampyr’s imprisonment:** The ritual appears successful, but the party has not established whether the new sarcophagus is permanent, whether Vampyr can communicate or escape, or whether the collapsed doorway is sufficient protection.
+- **Understand Key Rod’s bargain:** Determine the exact spelling and identity of the “Star of Secrets,” the full consequences of Reggae Joe’s champion status, and why he cannot touch the other sarcophagi.
+- **Track Kasimir and Patrina:** Kasimir intended to reach the Castle Ravenloft crypts using the promised restoration vial. Whether Patrina can truly be restored and whether Kasimir’s bargain is trustworthy remain unresolved.
+- **Repair the Sunsword:** Find the person, place, or ritual capable of repairing the Sunsword. The party associated this lead with the Mad Mage, a magical staff, a stone, and possibly a site connected to Yester Hill, but the exact requirements remain unclear.
+- **Reach Mordenkainen:** Locate the Mad Mage near the mountain and lake region. The party recalled him as a possible ally or source of information, but has not confirmed his current location.
+- **Travel through the lake region:** Retrieve the boat the party believes it left near the lake and determine the safest route onward.
+- **Investigate Yester Hill and the Wizard of Wines:** Both were discussed as possible next destinations. The party may also attempt to handle a wine-related delivery or pickup while traveling.
+- **Explore the remaining Amber Temple prisons:** Several intact sarcophagi remain. Reggae Joe’s inability to touch them may be protective, but the party does not yet know whether the other characters can safely investigate them.
+- **Recover fully from the ritual:** The party took a short rest and received substantial healing, but the transcript does not confirm a completed long rest or final hit-point and condition totals.
+
+## Party Character Notes
+
+- **Diesel Raines:** Continued as the ritual’s primary physical anchor, holding the evil hair and amber through the final stages. He took severe fire damage from the salt-circle ritual and was repeatedly healed by Reggae Joe’s guardian spirit and a potion. The hair and amber finally transformed into the Vampyr sarcophagus while Diesel remained in contact with it. No separate attack by Diesel was clearly captured during the final combat.
+- **Ah'man Poo'tit'en:** No clearly attributable game action was captured in this session. No actions were invented.
+- **Aniela Grinfeather:** Tried *Geas* against Vampyr, but the spell fizzled, apparently because he was immune to charm. She continued using *Flaming Sphere*, attempted an *Ice Knife* attack against his invisible position, entered the salt circle, and was later dropped by the deathball attack. Nazareth administered a healing potion and brought her back into the fight. Her exact final condition and whether she completed a rest are not fully recorded.
+- **Frangela Brethil:** Was rescued from her initial stupor by Nazareth, remained poisoned from Vampyr’s bite, entered the salt circle, and suffered additional fire damage. She administered a mislabeled standard healing potion to Diesel, used **Invoke Duplicity**, and used a Sentinel reaction to strike at Vampyr when he attacked Nazareth. Her final hit points and poison status after the ritual are unclear.
+- **Jobadia Baskin / Reggae Joe:** Maintained the guardian-spirit healing effect and used it to heal Diesel and others during the battle. He touched another sarcophagus after the Vampyr ritual, accepted Key Rod’s offer to become a champion, and gained three free uses of *Scrying* plus heightened nature/feral sensations. He could no longer touch the other amber prisons afterward.
+- **Nazareth:** Accepted his vial and gained **Savage Attacker**. He resisted Vampyr’s initial madness, encouraged and lifted Frangela, attacked Vampyr repeatedly, was clawed, bitten, grappled, and poisoned, and later used *Zephyr Strike* and his weapons against the invisible entity. He perceived Vampyr’s location through the flames, disengaged, and revived Aniela with a healing potion. His final condition is not fully captured.
+- **Perin:** No clearly attributable game action was captured in this session. No actions were invented. The transcript’s player-character participation is not always identifiable from the generic speaker labels.
+
+## Unresolved Threads and Caveats
+
+- The session began with recap material from the previous encounter. Only the continuation and resolution of the Vampyr ritual were treated as new events.
+- The entity name heard as “Key Rod” or “Keyrod” could not be verified against the ten root Curse of Strahd reference files or the selected adventure passages. It is retained as a transcript-supported rendering rather than replaced with an unsupported canonical name.
+- **Vampyr** is retained as the campaign’s spoken name. The Curse of Strahd adventure text establishes the Amber Temple and its Dark Powers but does not verify the campaign-specific history, abilities, or exact nature attributed to Vampyr.
+- “Deathball,” the wolf-like entity’s title, the healing guardian’s exact mechanics, and the windmill guardian’s origin are campaign or table details and were not forced into canonical Curse of Strahd terminology.
+- The transcript uses several noisy forms for established names, including “Kazimir,” “Tasimir,” “Strud,” “Mordenkainen,” “Lake Barovia,” and “Lake Raiden.” These were normalized conservatively where the surrounding Amber Temple, Barovia, or Curse of Strahd context made the intended name clear: **Kasimir**, **Strahd**, **Mordenkainen**, and likely **Lake Zarovich**. The lake reference remains tentative.
+- The party’s plan to repair the Sunsword is not yet concrete. The transcript mentions a staff, a stone, a darkest-fear test, Yester Hill, the Mad Mage, and the lake region, but does not establish the exact sequence or which NPC can perform the repair.
+- Exact combat math is unreliable in places because of overlapping table talk, repeated rules discussion, and rapidly changing hit-point totals. The summary records confirmed conditions and major outcomes rather than treating every spoken number as authoritative.
+- The final state of the remaining sarcophagi, the collapsed doorway, Reggae Joe’s bargain, and each character’s exhaustion, poison, death-save, or hit-point status should be checked against the game sheet at the next session.
+- Repeated ASR fragments, rules lookups, computer/map management, household discussion, jokes, and unrelated real-life conversation were filtered. Neither the raw transcript nor the second-pass transcript was modified.
